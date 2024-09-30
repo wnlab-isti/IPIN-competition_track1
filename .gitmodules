@@ -1,3 +1,6 @@
 [submodule "evaalscore"]
 	path = evaalscore
 	url = https://github.com/wnlab-isti/evaalscore.git
+[submodule "steplogger"]
+	path = steplogger
+	url = https://github.com/wnlab-isti/steplogger.git
