@@ -4,3 +4,6 @@
 [submodule "steplogger"]
 	path = steplogger
 	url = https://github.com/wnlab-isti/steplogger.git
+[submodule "steplogger_fullscreen"]
+	path = steplogger_fullscreen
+	url = https://github.com/wnlab-isti/steplogger_fullscreen.git
