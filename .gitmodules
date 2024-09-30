@@ -1,0 +1,3 @@
+[submodule "evaalscore"]
+	path = evaalscore
+	url = https://github.com/wnlab-isti/evaalscore.git
