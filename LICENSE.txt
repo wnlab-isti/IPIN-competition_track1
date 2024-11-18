@@ -4,7 +4,7 @@ This repository contains 4 software artefacts released under different licenses.
 
 wnlab-isti/evaalscore/LICENSE
 
-- StepLogger,StepLoggerClient and StepLoggerFullScreen are released under Apache License Version 2.0 abailable here:
+- StepLogger, StepLoggerClient and StepLoggerFullScreen are released under Apache License Version 2.0 abailable here:
 
 wnlab-isti/steplogger/LICENSE
 
