@@ -1,5 +1,8 @@
 # Onsite Tracks: Requirements for Competitors
 
+Please cite this publication when using the StepLogger code in your work:
+https://doi.org/10.1016/j.softx.2025.102115
+
 **IPIN Competitors are required to develop an Android app designed for smartphones** (no tablets are allowed) that:
 
 - computes the location of the user during the measurement session
